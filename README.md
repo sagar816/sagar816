@@ -1,4 +1,4 @@
-Hi, Myself Sagar Tambatkar
+Hi, Myself Sagar Tambatkar: simple_smile
 
 Worked as a PAN India Service Engineer. Having 6+ Years experience in Industrial Automation, my curiosity in knowing about the software field started during initial years of my career.
 
