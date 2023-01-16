@@ -18,6 +18,4 @@ Technical Skills:
 - Django, Git
 
 
-Thanking You With Regards,
-Sagar A Tambatkar
-sagar.tambatkar816@gmail.com
+Feel free to contact me on sagar.tambatkar816@gmail.com.
