@@ -5,7 +5,7 @@ A Vue.js developer with a versatile skill set. Proficient in front-end, back-end
 Technical Skills:
 
 - HTML, CSS, Bootstrap, Tailwind
-- Javascript, Laravel
+- Vue.js, Javascript, Laravel
 - AWS, Devops
 - SQL, MySql
 - Git, Linux, Networking
