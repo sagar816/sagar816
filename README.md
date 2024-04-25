@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Front-End and Back-End Technologies<br>🤝 I’m looking for help with cloud technologies<br><br>💬 Ask me about - PHP, Laravel, Wordpress<br>
+🔭 I’m currently working on Flutter<br>👯 I’m looking to collaborate on Front-End and Back-End Technologies<br>🤝 I’m looking for help with cloud technologies<br><br>💬 Ask me about - Flutter, Firebase, PHP, Laravel, Wordpress<br>
 
 
 # 💻 Tech Stack:
